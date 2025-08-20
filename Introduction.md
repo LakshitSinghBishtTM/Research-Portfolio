@@ -1,11 +1,11 @@
-# 🧾 Research Portfolio – Lakshit Singh Bisht
+# Research Portfolio – Lakshit Singh Bisht
 
 This repository serves as my **academic research portfolio**.  
 It contains summaries, drafts, and supporting materials related to my research in **Pure Mathematics**, with a focus on *Real Analysis* and *Functional Analysis*.  
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - **Papers** – Drafts and preprints of my research work  
 - **Projects** – Academic projects and collaborations  
@@ -14,7 +14,7 @@ It contains summaries, drafts, and supporting materials related to my research i
 
 ---
 
-## 🎯 Research Interests
+## Research Interests
 
 - Real Analysis  
 - Functional Analysis  
@@ -24,7 +24,7 @@ It contains summaries, drafts, and supporting materials related to my research i
 
 ---
 
-## 📚 Selected References & Reading
+## Selected References & Reading
 
 - Walter Rudin – *Functional Analysis*  
 - G.F. Simmons – *Introduction to Topology and Modern Analysis*  
@@ -33,7 +33,7 @@ It contains summaries, drafts, and supporting materials related to my research i
 
 ---
 
-## 🔗 Academic Links
+## Academic Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=cAZxaQMAAAAJ)  
 - [ORCID](https://orcid.org/0009-0004-0035-5714)  
@@ -42,6 +42,6 @@ It contains summaries, drafts, and supporting materials related to my research i
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).  
