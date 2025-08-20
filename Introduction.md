@@ -7,10 +7,10 @@ It contains summaries, drafts, and supporting materials related to my research i
 
 ## 📂 Repository Structure
 
-- **Papers/** – Drafts and preprints of my research work  
-- **Projects/** – Academic projects and collaborations  
-- **Notes/** – Extended research notes and ideas  
-- **Presentations/** – Seminar and conference slides  
+- **Papers** – Drafts and preprints of my research work  
+- **Projects** – Academic projects and collaborations  
+- **Notes** – Extended research notes and ideas  
+- **Presentations** – Seminar and conference slides  
 
 ---
 
